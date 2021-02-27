@@ -1,6 +1,7 @@
 p { font: 20px Arial, sans-serif; color: white; text-align: center; font-weight: bold; }
 li { font: 16px Arial, sans-serif; color: white; text-align: center; font-weight: bold; }
 header { background: black; width:100%; height: 100px; }
+margin  { background: black; width:100%; height: 100px; }
 
 ul {
 float: left; width: 100%; padding: 0; margin: 0;list-style: none;}
